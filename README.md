@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Tennessee, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `464484` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 117 records |
-| Free sample size | 11 records (9.4%) |
-| Last export | 2026-04-09T20:45:38.833391+00:00 |
+| Full dataset size | 53 records |
+| Free sample size | 5 records (9.43%) |
+| Last export | 2026-04-17T00:25:15.369000+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-tennessee-us-sample-464484/releases/download/sample-latest/beamstation_464484_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
