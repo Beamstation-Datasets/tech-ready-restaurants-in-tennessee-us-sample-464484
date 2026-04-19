@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0180eacc-2004-44b9-a4ea-333a47eaba19",
+  "export_job_id": "2fab5319-5233-493f-8f20-1b5b0b23286e",
   "id_short": 464484,
-  "published_at": "2026-04-12T19:42:07Z",
+  "published_at": "2026-04-19T19:44:20Z",
   "repo_name": "tech-ready-restaurants-in-tennessee-us-sample-464484",
   "sample_asset_name": "beamstation_464484_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/464484/beamstation_464484_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "7b0ca52c9842f57478191a78a3dce4e771964b619de6df0b42e4abe060591575",
-  "sample_size_bytes": 55902,
-  "total_records": 117
+  "sample_records": 5,
+  "sample_sha256": "b43664ddd7a3dd618f12995a23edfafb6dee6663a03ecdf3e7d28fe1377e0f41",
+  "sample_size_bytes": 34169,
+  "total_records": 53
 }
